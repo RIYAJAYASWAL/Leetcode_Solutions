@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2574-left-and-right-sum-differences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -26,4 +27,9 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
