@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [2574-left-and-right-sum-differences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Prefix Sum
 |  |
@@ -21,4 +22,8 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Binary Search
+|  |
+| ------- |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
