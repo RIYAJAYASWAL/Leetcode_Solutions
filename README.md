@@ -9,6 +9,7 @@
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1672-richest-customer-wealth](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -42,6 +43,7 @@
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
 |  |
 | ------- |
