@@ -1,13 +1,14 @@
 class Solution {
     public int maxDistinct(String s) {
-        int[] freq=new int[26];
+        boolean[] seen=new boolean[26];
         int n=s.length();
-        for(char x:s.toCharArray()){
-            freq[x-'a']++;
-        }
         int count=0;
-        for(int ch:freq){
-            if(ch>0){
+
+        for(int i=0;i<n;i++){
+            int idx=s.charAt(i)-'a';
+
+            if(!seen[idx]){
+                seen[idx]=true;
                 count++;
             }
         }
