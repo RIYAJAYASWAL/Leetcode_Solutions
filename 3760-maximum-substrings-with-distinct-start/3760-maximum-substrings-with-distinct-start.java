@@ -1,17 +1,10 @@
 class Solution {
     public int maxDistinct(String s) {
-        boolean[] seen=new boolean[26];
-        int n=s.length();
-        int count=0;
+        HashSet<Character> set=new HashSet<>();
 
-        for(int i=0;i<n;i++){
-            int idx=s.charAt(i)-'a';
-
-            if(!seen[idx]){
-                seen[idx]=true;
-                count++;
-            }
+        for(char c:s.toCharArray()){
+            set.add(c);
         }
-        return count;
+        return set.size();
     }
 }
