@@ -29,6 +29,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [1678-goal-parser-interpretation](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
 |  |
 | ------- |
