@@ -1,5 +1,5 @@
 class Solution {
-    public int numberOfSteps(int num) {
+    public static int steps(int num){
         int count=0;
         while(num>0){
             if(num%2==0){
@@ -10,5 +10,9 @@ class Solution {
             count++;
         }
         return count;
+
+    }
+    public int numberOfSteps(int num) {
+        return steps(num);
     }
 }
