@@ -1,15 +1,17 @@
 class Solution {
     public int minMoves(int[] nums) {
-        Arrays.sort(nums);
-        int sum=0;
-        int min=Integer.MAX_VALUE;
 
-        for(int num:nums){
-            min=Math.min(min,num);
+        int min=nums[0];
+        for(int i=1;i<nums.length;i++) {
+            if(nums[i]<min) {
+                min=nums[i];
+            }
         }
-        for(int num:nums){
-            sum+=num-min;
+
+        int moves=0;
+        for (int i=0;i<nums.length;i++) {
+            moves+=nums[i]-min;
         }
-        return sum;
+        return moves;
     }
 }
