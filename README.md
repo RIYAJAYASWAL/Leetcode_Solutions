@@ -44,6 +44,7 @@
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1678-goal-parser-interpretation](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -67,6 +68,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0383-ransom-note) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
