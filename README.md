@@ -131,6 +131,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [2409-count-days-spent-together](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Bit Manipulation
 |  |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
