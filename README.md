@@ -10,6 +10,7 @@
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -108,6 +109,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -121,6 +123,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
