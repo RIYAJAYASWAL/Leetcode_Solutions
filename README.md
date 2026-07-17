@@ -24,6 +24,7 @@
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -90,6 +91,7 @@
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -112,6 +114,7 @@
 | [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
@@ -119,6 +122,7 @@
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -140,6 +144,7 @@
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -163,6 +168,7 @@
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
