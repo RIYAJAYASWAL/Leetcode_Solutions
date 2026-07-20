@@ -11,6 +11,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
+| [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -75,6 +76,7 @@
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 ## Counting
@@ -114,6 +116,7 @@
 | ------- |
 | [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
+| [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
