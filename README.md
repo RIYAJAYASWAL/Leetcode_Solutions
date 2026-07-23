@@ -27,6 +27,7 @@
 | [2574-left-and-right-sum-differences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -170,6 +171,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -179,6 +181,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Dynamic Programming
 |  |
 | ------- |
