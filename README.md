@@ -11,6 +11,7 @@
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
@@ -114,6 +115,7 @@
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -178,6 +180,7 @@
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1025-divisor-game) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1447-simplified-fractions](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1447-simplified-fractions) |
