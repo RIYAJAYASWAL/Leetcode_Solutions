@@ -19,6 +19,7 @@
 | [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -146,6 +147,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 ## Simulation
@@ -250,6 +252,7 @@
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Graph Theory
 |  |
 | ------- |
@@ -258,8 +261,14 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
