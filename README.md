@@ -125,6 +125,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -181,6 +182,7 @@
 | [0141-linked-list-cycle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
@@ -244,6 +246,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -315,6 +318,7 @@
 | [0141-linked-list-cycle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0143-reorder-list) |
+| [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -330,4 +334,8 @@
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
