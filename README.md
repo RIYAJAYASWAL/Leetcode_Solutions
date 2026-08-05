@@ -40,6 +40,7 @@
 | [3513-number-of-unique-xor-triplets-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3668-restore-finishing-order](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3668-restore-finishing-order) |
+| [3701-compute-alternating-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -170,6 +171,7 @@
 | [2390-removing-stars-from-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
