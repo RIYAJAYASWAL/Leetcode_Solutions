@@ -28,6 +28,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2104-sum-of-subarray-ranges](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
@@ -212,6 +213,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2104-sum-of-subarray-ranges](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2390-removing-stars-from-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Math
@@ -346,4 +348,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2104-sum-of-subarray-ranges](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2104-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
