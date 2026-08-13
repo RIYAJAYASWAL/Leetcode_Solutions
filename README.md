@@ -9,6 +9,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -64,6 +65,7 @@
 | [0141-linked-list-cycle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0217-contains-duplicate](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0383-ransom-note](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -138,6 +140,7 @@
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
+| [0217-contains-duplicate](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0217-contains-duplicate) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0506-relative-ranks) |
