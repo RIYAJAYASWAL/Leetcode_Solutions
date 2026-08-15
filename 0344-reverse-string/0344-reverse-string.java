@@ -2,11 +2,11 @@ class Solution {
     public void reverseString(char[] s) {
 
         int n=s.length;
-        StringBuilder ans= new StringBuilder(String.valueOf(s));
-        ans.reverse();
+        char[] rev=new char[n];
 
         for(int i=0;i<n;i++){
-            s[i]=ans.charAt(i);
+            rev[i]=s[n-i-1];
         }
+        System.arraycopy(rev, 0, s, 0, n);
     }
 }
