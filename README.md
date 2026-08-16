@@ -191,6 +191,7 @@
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0946-validate-stack-sequences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1518-water-bottles](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1518-water-bottles) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2390-removing-stars-from-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
@@ -249,6 +250,7 @@
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1447-simplified-fractions](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
+| [1518-water-bottles](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2409-count-days-spent-together](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
