@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -207,6 +208,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -290,6 +292,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
