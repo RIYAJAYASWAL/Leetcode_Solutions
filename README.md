@@ -38,6 +38,7 @@
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -82,6 +83,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -147,6 +149,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
@@ -163,6 +166,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2974-minimum-number-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2974-minimum-number-game) |
