@@ -77,6 +77,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -109,6 +110,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0383-ransom-note) |
@@ -366,6 +368,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
