@@ -20,6 +20,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -74,6 +75,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -95,6 +97,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
