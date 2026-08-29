@@ -25,6 +25,7 @@
 | [0682-baseball-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [2574-left-and-right-sum-differences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
 ## Hash Table
@@ -92,6 +94,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
@@ -375,6 +378,7 @@
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2090-k-radius-subarray-averages) |
