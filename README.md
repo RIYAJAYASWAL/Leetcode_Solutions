@@ -55,6 +55,7 @@
 | [2367-number-of-arithmetic-triplets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2373-largest-local-values-in-a-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2373-largest-local-values-in-a-matrix) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -112,6 +113,7 @@
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2367-number-of-arithmetic-triplets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -395,6 +397,7 @@
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2090-k-radius-subarray-averages) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Monotonic Queue
 |  |
 | ------- |
