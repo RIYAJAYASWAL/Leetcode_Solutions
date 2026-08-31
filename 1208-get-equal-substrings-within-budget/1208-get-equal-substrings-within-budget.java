@@ -7,7 +7,7 @@ class Solution {
 
         for(int i=0;i<n;i++){
             sum+=Math.abs(s.charAt(i)-t.charAt(i));
-            while(sum>maxCost){
+            if(sum>maxCost){
                 sum-=Math.abs(s.charAt(j)-t.charAt(j));
                 j++;
             }
