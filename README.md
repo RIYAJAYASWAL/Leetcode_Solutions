@@ -20,6 +20,7 @@
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0506-relative-ranks) |
+| [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -79,6 +80,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -104,6 +106,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
@@ -303,6 +306,7 @@
 | [0002-add-two-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1025-divisor-game) |
@@ -463,4 +467,8 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
