@@ -104,6 +104,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0525-contiguous-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -133,6 +134,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -263,6 +265,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -390,6 +393,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
