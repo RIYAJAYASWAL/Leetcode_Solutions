@@ -157,6 +157,7 @@
 | [1704-determine-if-string-halves-are-alike](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
+| [2063-vowels-of-all-substrings](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2390-removing-stars-from-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -319,6 +320,7 @@
 | [1486-xor-operation-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1518-water-bottles](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1518-water-bottles) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2063-vowels-of-all-substrings](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2063-vowels-of-all-substrings) |
 | [2409-count-days-spent-together](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -344,6 +346,7 @@
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1025-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [2063-vowels-of-all-substrings](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -477,4 +480,8 @@
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [2063-vowels-of-all-substrings](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2063-vowels-of-all-substrings) |
 <!---LeetCode Topics End-->
