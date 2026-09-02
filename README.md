@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0946-validate-stack-sequences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1260-shift-2d-grid](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -115,6 +116,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -197,6 +199,7 @@
 | [0383-ransom-note](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -417,6 +420,7 @@
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0992-subarrays-with-k-different-integers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
