@@ -169,6 +169,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2390-removing-stars-from-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2409-count-days-spent-together](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Backtracking
@@ -435,6 +436,7 @@
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2090-k-radius-subarray-averages) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Monotonic Queue
 |  |
 | ------- |
