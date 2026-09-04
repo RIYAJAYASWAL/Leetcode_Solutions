@@ -79,6 +79,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
+| [3903-smallest-stable-index-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -95,6 +96,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1991-find-the-middle-index-in-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3903-smallest-stable-index-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
 | ------- |
