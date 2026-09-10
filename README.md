@@ -166,6 +166,7 @@
 | [1544-make-the-string-great](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1544-make-the-string-great) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1678-goal-parser-interpretation) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
@@ -379,6 +380,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0179-largest-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0179-largest-number) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
