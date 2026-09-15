@@ -50,6 +50,7 @@
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1991-find-the-middle-index-in-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -238,6 +239,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -306,6 +308,7 @@
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2000-reverse-prefix-of-word](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -393,6 +396,7 @@
 | [0179-largest-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2216-minimum-deletions-to-make-array-beautiful](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2216-minimum-deletions-to-make-array-beautiful) |
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
