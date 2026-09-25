@@ -18,11 +18,11 @@ class Solution {
 
     public List<Integer> solve(TreeNode root,List<Integer> ans){
         if(root==null){
-            return new ArrayList<>();
+            return ans;
         }
         ans.add(root.val);
-        ans.addAll(preorderTraversal(root.left));
-        ans.addAll(preorderTraversal(root.right));
+        solve(root.left,ans);
+        solve(root.right,ans);
         return ans;
     }
     public List<Integer> preorderTraversal(TreeNode root) 
