@@ -585,6 +585,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -629,6 +630,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -675,4 +677,5 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
