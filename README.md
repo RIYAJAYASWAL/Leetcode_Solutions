@@ -592,6 +592,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -617,6 +618,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -644,6 +646,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -697,6 +700,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0450-delete-node-in-a-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
