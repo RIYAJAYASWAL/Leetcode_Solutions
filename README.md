@@ -595,6 +595,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -649,6 +650,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -662,6 +664,7 @@
 | [0226-invert-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 ## DP on Trees
 |  |
 | ------- |
