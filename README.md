@@ -18,6 +18,7 @@
 | [0229-majority-element-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -400,6 +401,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
@@ -662,6 +664,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
@@ -707,4 +710,12 @@
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
