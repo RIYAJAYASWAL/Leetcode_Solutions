@@ -279,6 +279,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -472,6 +473,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
@@ -624,6 +626,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 ## Binary Tree
 |  |
@@ -670,6 +673,7 @@
 | [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 ## DP on Trees
