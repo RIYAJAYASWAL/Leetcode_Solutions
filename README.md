@@ -85,6 +85,7 @@
 | [3701-compute-alternating-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -265,6 +266,7 @@
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3536-maximum-product-of-two-digits](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bucket Sort
 |  |
@@ -430,6 +432,7 @@
 | [2224-minimum-number-of-operations-to-convert-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2224-minimum-number-of-operations-to-convert-time) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Number Theory
 |  |
 | ------- |
