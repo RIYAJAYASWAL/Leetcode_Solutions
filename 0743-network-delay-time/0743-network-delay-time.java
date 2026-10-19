@@ -21,6 +21,7 @@ class Solution {
         while(!pq.isEmpty()){
             int[] curr = pq.poll();
             int distance = curr[1];
+            if(distance>ans[curr[0]])continue;
             for(int[] next : graph.get(curr[0])){
                 if(ans[next[0]]>distance+next[1]){
                     ans[next[0]] = distance+next[1];
