@@ -303,6 +303,7 @@
 | [0506-relative-ranks](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -423,6 +424,7 @@
 | [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1025-divisor-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -495,6 +497,7 @@
 | [0207-course-schedule](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0207-course-schedule) |
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
@@ -651,6 +654,7 @@
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
@@ -702,6 +706,7 @@
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -769,6 +774,7 @@
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
