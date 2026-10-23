@@ -430,6 +430,7 @@
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0877-stone-game) |
+| [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1025-divisor-game) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -632,6 +633,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 ## Depth-First Search
 |  |
@@ -663,6 +665,7 @@
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -695,6 +698,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 ## Breadth-First Search
 |  |
@@ -723,6 +727,7 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Lifting
 |  |
 | ------- |
