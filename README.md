@@ -31,6 +31,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0682-baseball-game) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0735-asteroid-collision](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0735-asteroid-collision) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0875-koko-eating-bananas](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0875-koko-eating-bananas) |
@@ -137,6 +138,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -173,6 +175,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0449-serialize-and-deserialize-bst) |
 | [0451-sort-characters-by-frequency](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -263,6 +266,7 @@
 | [0506-relative-ranks](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0645-set-mismatch) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [1331-rank-transform-of-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -295,6 +299,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0547-number-of-provinces](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
@@ -664,6 +669,7 @@
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
@@ -720,6 +726,7 @@
 | [0547-number-of-provinces](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
