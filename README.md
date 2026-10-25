@@ -304,6 +304,7 @@
 | [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -516,6 +517,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
@@ -679,6 +681,7 @@
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -735,6 +738,7 @@
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1609-even-odd-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1609-even-odd-tree) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## DP on Trees
