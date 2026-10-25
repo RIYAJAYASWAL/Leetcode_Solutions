@@ -52,6 +52,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1590-make-sum-divisible-by-p](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1637-widest-vertical-area-between-two-points-containing-no-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1637-widest-vertical-area-between-two-points-containing-no-points) |
@@ -305,6 +306,7 @@
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
 |  |
@@ -519,6 +521,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Sliding Window
 |  |
@@ -827,4 +830,20 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
