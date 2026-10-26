@@ -393,6 +393,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0523-continuous-subarray-sum) |
@@ -429,6 +430,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1486-xor-operation-in-an-array) |
@@ -498,6 +500,7 @@
 | [0143-reorder-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
