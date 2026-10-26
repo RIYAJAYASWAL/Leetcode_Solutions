@@ -304,6 +304,7 @@
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -516,6 +517,7 @@
 | [0547-number-of-provinces](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0684-redundant-connection) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
+| [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
@@ -681,6 +683,7 @@
 | [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
@@ -739,6 +742,7 @@
 | [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0743-network-delay-time](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0743-network-delay-time) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
+| [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
@@ -846,4 +850,12 @@
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
