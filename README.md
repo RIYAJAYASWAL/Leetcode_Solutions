@@ -7,6 +7,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -208,6 +209,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
@@ -430,6 +432,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0645-set-mismatch](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0645-set-mismatch) |
