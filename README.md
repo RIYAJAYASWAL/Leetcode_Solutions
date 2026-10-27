@@ -169,6 +169,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0179-largest-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0179-largest-number) |
@@ -210,6 +211,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0113-path-sum-ii) |
@@ -447,6 +449,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
@@ -872,4 +875,8 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
