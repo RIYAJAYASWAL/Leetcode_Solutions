@@ -20,6 +20,7 @@
 | [0229-majority-element-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -362,6 +363,7 @@
 | [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0844-backspace-string-compare) |
