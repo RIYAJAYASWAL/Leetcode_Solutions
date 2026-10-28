@@ -9,6 +9,7 @@
 | [0040-combination-sum-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0090-subsets-ii) |
@@ -463,6 +464,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -489,6 +491,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0179-largest-number) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
