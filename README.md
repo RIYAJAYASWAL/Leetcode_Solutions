@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0011-container-with-most-water) |
 | [0040-combination-sum-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0040-combination-sum-ii) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0090-subsets-ii) |
@@ -461,6 +462,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
@@ -479,6 +481,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
