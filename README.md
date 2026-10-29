@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0090-subsets-ii) |
@@ -252,6 +253,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
@@ -474,6 +476,7 @@
 | [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
