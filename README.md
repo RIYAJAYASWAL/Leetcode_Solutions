@@ -415,6 +415,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0231-power-of-two) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -469,6 +470,7 @@
 | [0045-jump-game-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0091-decode-ways) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -654,6 +656,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0062-unique-paths) |
 | [2063-vowels-of-all-substrings](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2063-vowels-of-all-substrings) |
 ## Quickselect
 |  |
