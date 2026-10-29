@@ -17,6 +17,7 @@
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0120-triangle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0164-maximum-gap](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0164-maximum-gap) |
@@ -479,6 +480,7 @@
 | [0064-minimum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0091-decode-ways) |
+| [0120-triangle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0120-triangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0198-house-robber) |
