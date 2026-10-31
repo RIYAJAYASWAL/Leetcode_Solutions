@@ -201,6 +201,7 @@
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1021-remove-outermost-parentheses](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1208-get-equal-substrings-within-budget](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1447-simplified-fractions](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1447-simplified-fractions) |
@@ -498,6 +499,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0931-minimum-falling-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1025-divisor-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1025-divisor-game) |
+| [1143-longest-common-subsequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2063-vowels-of-all-substrings](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/2063-vowels-of-all-substrings) |
@@ -927,4 +929,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
