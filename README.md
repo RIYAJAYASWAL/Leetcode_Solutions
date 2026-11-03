@@ -13,6 +13,7 @@
 | [0055-jump-game](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0090-subsets-ii) |
@@ -138,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
@@ -261,6 +263,7 @@
 | ------- |
 | [0063-unique-paths-ii](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
