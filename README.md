@@ -159,6 +159,7 @@
 | [0645-set-mismatch](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0645-set-mismatch) |
 | [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0930-binary-subarrays-with-sum](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0930-binary-subarrays-with-sum) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0992-subarrays-with-k-different-integers](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 | [1207-unique-number-of-occurrences](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1248-count-number-of-nice-subarrays](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1248-count-number-of-nice-subarrays) |
@@ -341,6 +342,7 @@
 | [0721-accounts-merge](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0721-accounts-merge) |
 | [0778-swim-in-rising-water](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1584-min-cost-to-connect-all-points) |
@@ -588,6 +590,7 @@
 | [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0990-satisfiability-of-equality-equations](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -756,6 +759,7 @@
 | [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0797-all-paths-from-source-to-target) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0968-binary-tree-cameras](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0968-binary-tree-cameras) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/1631-path-with-minimum-effort) |
@@ -928,6 +932,7 @@
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0785-is-graph-bipartite) |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/RIYAJAYASWAL/Leetcode_Solutions/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 ## Bracket Sequences
 |  |
 | ------- |
