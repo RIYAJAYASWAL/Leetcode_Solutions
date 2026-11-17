@@ -3,9 +3,8 @@ class Solution {
         List<List<Integer>> ans=new ArrayList<>();
         solve(0,nums,ans,new ArrayList<>());
         return ans;
-        
     }
-    public void solve(int idx,int[]nums,List<List<Integer>>ans,List<Integer>curr){
+    public void solve(int idx,int[] nums,List<List<Integer>> ans,ArrayList<Integer> curr){
         if(idx==nums.length){
             ans.add(new ArrayList<>(curr));
             return;
@@ -14,6 +13,5 @@ class Solution {
         curr.add(nums[idx]);
         solve(idx+1,nums,ans,curr);
         curr.remove(curr.size()-1);
-
     }
 }
