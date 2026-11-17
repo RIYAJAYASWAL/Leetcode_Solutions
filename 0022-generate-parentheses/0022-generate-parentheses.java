@@ -10,7 +10,7 @@ class Solution {
             ans.add(curr);
             return;
         }
-        if(open<=n){
+        if(open<n){
             solve(ans,n,open+1,close,curr+"(");
         }
         if(close<open){
